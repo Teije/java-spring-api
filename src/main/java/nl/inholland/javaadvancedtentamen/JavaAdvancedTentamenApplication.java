@@ -10,4 +10,6 @@ public class JavaAdvancedTentamenApplication {
 		SpringApplication.run(JavaAdvancedTentamenApplication.class, args);
 	}
 
+
+
 }
